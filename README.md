@@ -19,6 +19,8 @@ Option 2 : BDD sur XAMPP (machine de l'IUT ou personnelle) :
 
 ### Espace de travail
 
+Tout d'abord, créez un fork de ce repo. Prenez note du nom de votre fork.
+
 Pour setup ce projet, vous aurez besoin de **Nodejs** et **npm**. Npm est un gestionnaire de paquets pour Node.js. Ils sont tous deux déjà installés sur les machines de l'IUT. Si votre environnement ne les a pas, vous pouvez les télécharger ensemble [ici](https://nodejs.org/en/download).
 
 Ensuite, ouvrez VScode et sur la page d'accueil, cliquez sur `Clone Repository` et entrez l'url de votre repo. Une fois le repo cloné, cliquez sur `Terminal` en haut à gauche, puis `New Terminal`. Dans ce terminal, tapez `npm i` pour installer les dépendances du projet.
