@@ -284,8 +284,6 @@ async function addUserToEventWithXp(
    * @returns {Boolean} - True if the user was added to the event / grade, false otherwise
    */
 
-  console.log('Item name : ' + item.name);
-
   const type = item.type;
   const itemId = item.id;
   const name = item.name;

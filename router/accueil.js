@@ -71,8 +71,6 @@ router.get('', async (req, res) => {
           // Add other properties as needed
         };
       });
-
-      console.log('events :', events);
     } else {
       console.log('No VEVENT components found in the VCALENDAR.');
       res.status(500).send('No VEVENT components found in the VCALENDAR.');
